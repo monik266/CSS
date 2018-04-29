@@ -1,0 +1,13 @@
+p{
+    color: white;
+   /*dentro de p se crea los stylos*/
+   font-size: 1rem; /*aumenta la fuente %, px , em rem */
+  /* text-decoration: underline; */
+  /* text-transform: lowercase;*/
+   text-transform: capitalize;
+   /*text-transorm: uppercase /* pone la primera letra en mayucula*/
+   background-color: rgb(0, 41, 128);
+}
+h1{
+    font-size: 20px;
+}
